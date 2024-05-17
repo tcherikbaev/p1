@@ -1,0 +1,52 @@
+To the Student
+What is discrete mathematics? Discrete mathematics is the part of mathematics devoted to
+the study of discrete objects. (Here discrete means consisting of distinct or unconnected
+elements.) The kinds of problems solved using discrete mathematics include:
+ How many ways are there to choose a valid password on a computer system?
+ What is the probability of winning a lottery?
+ Is there a link between two computers in a network?
+ How can I identify spam e-mail messages?
+ How can I encrypt a message so that no unintended recipient can read it?
+ What is the shortest path between two cities using a transportation system?
+ How can a list of integers be sorted so that the integers are in increasing order?
+ How many steps are required to do such a sorting?
+ How can it be proved that a sorting algorithm correctly sorts a list?
+ How can a circuit that adds two integers be designed?
+ How many valid Internet addresses are there?
+You will learn the discrete structures and techniques needed to solve problems such as these.
+More generally, discrete mathematics is used whenever objects are counted, when relationships between finite (or countable) sets are studied, and when processes involving a finite number
+of steps are analyzed. A key reason for the growth in the importance of discrete mathematics is
+that information is stored and manipulated by computing machines in a discrete fashion.
+WHY STUDY DISCRETE MATHEMATICS? There are several important reasons for
+studying discrete mathematics. First, through this course you can develop your mathematical
+maturity: that is, your ability to understand and create mathematical arguments.You will not get
+very far in your studies in the mathematical sciences without these skills.
+Second, discrete mathematics is the gateway to more advanced courses in all parts of
+the mathematical sciences. Discrete mathematics provides the mathematical foundations for
+many computer science courses including data structures, algorithms, database theory, automata
+theory, formal languages, compiler theory, computer security, and operating systems. Students
+find these courses much more difficult when they have not had the appropriate mathematical
+foundations from discrete math. One student has sent me an e-mail message saying that she
+used the contents of this book in every computer science course she took!
+Math courses based on the material studied in discrete mathematics include logic, set theory,
+number theory, linear algebra, abstract algebra, combinatorics, graph theory, and probability
+theory (the discrete part of the subject).
+Also, discrete mathematics contains the necessary mathematical background for solving
+problems in operations research (including many discrete optimization techniques), chemistry,
+engineering, biology, and so on. In the text, we will study applications to some of these areas.
+Many students find their introductory discrete mathematics course to be significantly more
+challenging than courses they have previously taken. One reason for this is that one of the
+primary goals of this course is to teach mathematical reasoning and problem solving, rather
+than a discrete set of skills. The exercises in this book are designed to reflect this goal. Although
+there are plenty of exercises in this text similar to those addressed in the examples, a large
+xviii
+To the Student xix
+percentage of the exercises require original thought. This is intentional. The material discussed
+in the text provides the tools needed to solve these exercises, but your job is to successfully
+apply these tools using your own creativity. One of the primary goals of this course is to learn
+how to attack problems that may be somewhat different from any you may have previously
+seen. Unfortunately, learning how to solve only particular types of exercises is not sufficient for
+success in developing the problem-solving skills needed in subsequent courses and professional
+work. This text addresses many different topics, but discrete mathematics is an extremely diverse
+and large area of study. One of my goals as an author is to help you develop the skills needed
+to master the additional material you will need in your own future pursuits.

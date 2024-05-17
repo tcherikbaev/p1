@@ -1,1 +1,0 @@
-In this modified version, the readFile() method reads the file content as binary data using FileInputStream, and the compressFile() method accepts a byte array as input instead of a String. This approach ensures that binary data is handled correctly without any encoding issues.
